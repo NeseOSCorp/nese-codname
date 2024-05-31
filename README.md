@@ -38,6 +38,10 @@ Hemide Osmanli's Windows Server 2008 R2 64-bit
 
 Hemide Osmanli's Windows 7 64-bit
 
+# Nese 7 Ramadan Edition 
+
+Ilyasov Sinan's Windows 7 Ramadan Edition 64-bit
+
 # Nese 9 (only 64-bit) 
 
 Hemide Osmanli's Windows 8.1 (64-bit only)
