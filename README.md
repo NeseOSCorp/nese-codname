@@ -34,6 +34,14 @@ Hemide Osmanli's Windows Vista business version (only 64-bit)
 
 Hemide Osmanli's Windows Server 2008 R2 64-bit
 
+# Nese Server 2008 R2 SP0 (only 64-bit) 
+
+Hemide Osmanli's Windows Server 2008 R2 Service Pack 0 with 64-bit
+
+# Nese Server 2008 R2 SP1 (only 64-bit) 
+
+Hemide Osmanli's Windows Server 2008 R2 Service Pack 1 with 64-bit
+
 # Nese-V Server 2008 R2
 
 Seyyare-V Server
