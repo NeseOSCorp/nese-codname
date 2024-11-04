@@ -58,6 +58,10 @@ Seyyare
 
 Seyyare 7
 
+# Nese Embedded POSReady 7 
+
+Hemide Embedded POSReady 7
+
 # Nese 7 Ramadan Edition 
 
 Ilyasov Sinan's Windows 7 Ramadan Edition 64-bit
